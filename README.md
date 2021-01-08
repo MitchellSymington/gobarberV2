@@ -22,29 +22,40 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação com
 
 ### Web
 <p float="left"> 
- <img height="260" src=".github/Captura de Tela 2020-10-22 às 20.19.50.png"/>
- <img height="260" src=".github/Captura de Tela 2020-10-22 às 20.19.20.png"/>
+ <img height="260" src=".github/Captura de Tela 2021-01-07 às 21.10.36.png"/>
+ <img height="260" src=".github/Captura de Tela 2021-01-07 às 21.11.26.png"/>
 </p>
 
 <p float="left"> 
- <img height="260" src=".github/Captura de Tela 2020-10-22 às 20.19.30.png"/>
- <img height="260" src=".github/Captura de Tela 2020-10-22 às 20.19.25.png"/>
+ <img height="260" src=".github/Captura de Tela 2021-01-07 às 21.11.43.png"/>
+ <img height="260" src=".github/Captura de Tela 2021-01-07 às 21.35.44.png"/>
 </p>
+
+
+<p float="left"> 
+ <img height="260" src=".github/Captura de Tela 2021-01-07 às 21.36.01.png"/>
+</p>
+
 
 ### APP
 <p float="left"> 
- <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2020-10-25 at 18.41.32.png"/>
- <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2020-10-25 at 18.41.39.png"/>
+ <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2021-01-07 at 21.20.41.png"/>
+ <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2021-01-07 at 21.20.48.png"/>
 </p>
 
 <p float="left"> 
- <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2020-10-25 at 18.58.39.png"/>
- <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2020-10-25 at 18.59.24.png"/>
+ <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2021-01-07 at 21.20.53.png"/>
+ <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2021-01-07 at 21.33.14.png"/>
 </p>
 
 <p float="left"> 
- <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2020-10-25 at 18.59.29.png"/>
- <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2020-10-25 at 18.59.42.png"/>
+ <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2021-01-07 at 21.33.18.png"/>
+ <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2021-01-07 at 21.33.25.png"/>
+</p>
+
+<p float="left"> 
+ <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2021-01-07 at 21.33.28.png"/>
+ <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2021-01-07 at 21.33.41.png"/>
 </p>
 
 ```Tecnologias
