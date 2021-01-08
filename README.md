@@ -41,6 +41,8 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação com
 <p float="left"> 
  <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2021-01-07 at 21.20.41.png"/>
  <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2021-01-07 at 21.20.48.png"/>
+  <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2021-01-07 at 21.20.53.png"/>
+ <img height="520" src=".github/Simulator Screen Shot - iPhone 11 - 2021-01-07 at 21.33.14.png"/>
 </p>
 
 <p float="left"> 
