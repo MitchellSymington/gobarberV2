@@ -8,10 +8,10 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação com
 </p>
  
 ## :rocket: Tecnologias
-- :blue_book: JavaScript
-- :file_folder: Backend - Node.Js | Express.
-- :computer: Frontend - ReactJs | Sequelize.
-- :iphone: Mobile - React Native | Sequelize.
+- :blue_book: TypeScript
+- :file_folder: Backend - Node.Js | Express | TypeORM.
+- :computer: Frontend - ReactJs | API DE CONTEXTO.
+- :iphone: Mobile - React Native | API DE CONTEXTO.
 - :floppy_disk: PostgreSQL | MongoDB | Redis
 
 ## :open_file_folder: Repositórios
