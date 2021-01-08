@@ -15,8 +15,8 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação com
 - :floppy_disk: PostgreSQL | MongoDB | Redis
 
 ## :open_file_folder: Repositórios
-<a href="https://github.com/MitchellSymington/gobarber-api"># Repositório API</a> </br>
-<a href="https://github.com/MitchellSymington/gobarber-web"># Repositório WEB</a> </br>
+<a href="https://github.com/MitchellSymington/gobarber_v2.0-api"># Repositório API</a> </br>
+<a href="https://github.com/MitchellSymington/gobarber_v2.0-web"># Repositório WEB</a> </br>
 <a href="https://github.com/MitchellSymington/appgobarber"># Repositório MOBILE</a> </br>
 
 
